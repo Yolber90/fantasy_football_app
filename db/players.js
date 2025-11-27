@@ -34,7 +34,7 @@ const players =
     "year": 2020,
     "teamId": "9",
     "teamName": "Everyone Hates Brady",
-    "owernName": "Daniel"
+    "owernName": "Drigo"
   },
   {
     "year": 2020,
@@ -280,7 +280,7 @@ const players =
     "year": 2024,
     "teamId": "5",
     "teamName": "Everyone can suck my dick",
-    "owernName": "Daniel"
+    "owernName": "Drigo"
   },
   {
     "year": 2024,
@@ -315,7 +315,7 @@ const players =
   {
     "year": 2025,
     "teamId": "1",
-    "teamName": "One night at Brads",
+    "teamName": "Drigos 9mm",
     "owernName": "Daniel"
   },
   {
@@ -333,8 +333,8 @@ const players =
   {
     "year": 2025,
     "teamId": "5",
-    "teamName": "Jose Daniel Tew",
-    "owernName": "Daniel"
+    "teamName": "Drigo with an apron",
+    "owernName": "Drigo"
   },
   {
     "year": 2025,
@@ -363,7 +363,7 @@ const players =
   {
     "year": 2025,
     "teamId": "12",
-    "teamName": "Guataca Power",
+    "teamName": "Bye Week Secured",
     "owernName": "Jose"
   },
   {

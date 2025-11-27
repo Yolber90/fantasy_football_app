@@ -7,40 +7,18 @@ const gamesPre = games.matchupHistory[0]
 
 const playerSelect1 = document.getElementById('player1')
 const playerSelect2 = document.getElementById('player2')
-const player1Category = document.getElementById('player1c')
-const player2Category = document.getElementById('player2c');
-const player1Wins = document.getElementById('player-1-wins');
-const player2Wins = document.getElementById('player-2-wins');
 const player = playersList.map((p) => p.owernName)
 const uniquePlayers = [...new Set(player)]
-const tableData = document.getElementById('inject-table-data') // table data
 
-const turnToFloat = (score) => { return parseFloat(score) }
 
 // ===================================== LOAD PLAYER OPTIONS =====================================
 for (let p = 0; p < uniquePlayers.length; p++) {
-  playerSelect1.innerHTML +=
-    `
-    <option value="${uniquePlayers[p]}" >${uniquePlayers[p]}</option>
-    `
-  playerSelect2.innerHTML +=
-    `
-    <option value="${uniquePlayers[p]}">${uniquePlayers[p]}</option>
-    `
+  playerSelect1.innerHTML +=`<option value="${uniquePlayers[p]}" >${uniquePlayers[p]}</option>`
+  playerSelect2.innerHTML +=`<option value="${uniquePlayers[p]}">${uniquePlayers[p]}</option>`
 }
 
-
-
-
-
-
-// FUNCTION =-=-=-=-==-=-=-========================================================================================================
-// FUNCTION =-=-=-=-==-=-=-========================================================================================================
-// FUNCTION =-=-=-=-==-=-=-========================================================================================================
-// FUNCTION =-=-=-=-==-=-=-========================================================================================================
+// FUNCTION =======================================================================================================
 document.getElementById('compare').addEventListener('click', () => {
-
-
 
   // Set Data
   const thisTool = new Utilities(playerSelect1.value, playerSelect2.value);
@@ -74,13 +52,9 @@ document.getElementById('compare').addEventListener('click', () => {
         <li>● <span id='team1'>${thisTool.player1}</span> has a record of ${thisTool.player1Wins()} - ${thisTool.player2Wins()} against <span id='team2'>${thisTool.player2}</span></li>
         <li>${getDiff(thisTool.player1Wins(), thisTool.player2Wins())}</li>
         <li>${customNote(thisTool.player1, thisTool.player2)}</li>
-        
       </ul>
       `
   }
-
-
-
 
   replaceDataset1();
 
@@ -115,9 +89,8 @@ document.getElementById('compare').addEventListener('click', () => {
     // replace everything
     myChart2.data.labels = [thisTool.player1, thisTool.player2];
     myChart2.data.datasets.label = thisTool.player1;
-    // myChart2.data.datasets[1].label = thisTool.player2;
     myChart2.data.datasets[0].data = [newData3, newData4]
-    // myChart2.data.datasets[1].data = [newData4]
+
 
     // replace everything
     myChart3.data.labels = [thisTool.player1, thisTool.player2];

@@ -88,7 +88,7 @@ const games =
           },
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 109.98
           }
@@ -208,7 +208,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 127.96
           },
@@ -316,7 +316,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 130.5
           },
@@ -412,7 +412,7 @@ const games =
           },
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 91.54
           }
@@ -496,7 +496,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 120.44
           },
@@ -592,7 +592,7 @@ const games =
           },
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 115.82
           }
@@ -676,7 +676,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 186.32
           },
@@ -766,7 +766,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 95.74
           },
@@ -898,7 +898,7 @@ const games =
           },
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 106.2
           }
@@ -1018,7 +1018,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 68.28
           },
@@ -1150,7 +1150,7 @@ const games =
           },
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 141.76
           }
@@ -1270,7 +1270,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 112.5
           },
@@ -1402,7 +1402,7 @@ const games =
           },
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 138.2
           }
@@ -1474,7 +1474,7 @@ const games =
           },
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 130
           }
@@ -1654,7 +1654,7 @@ const games =
           },
           {
             "name": "Everyone Hates Brady",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "9",
             "score": 93.54
           }
@@ -6094,7 +6094,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 101.74
           },
@@ -6190,7 +6190,7 @@ const games =
           },
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 85.44
           }
@@ -6256,7 +6256,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 91.18
           },
@@ -6328,7 +6328,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 72.4
           },
@@ -6442,7 +6442,7 @@ const games =
           },
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 98.74
           }
@@ -6496,7 +6496,7 @@ const games =
           },
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 103.4
           }
@@ -6640,7 +6640,7 @@ const games =
           },
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 109.26
           }
@@ -6742,7 +6742,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 112.18
           },
@@ -6832,7 +6832,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 129.84
           },
@@ -6910,7 +6910,7 @@ const games =
           },
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 104.54
           }
@@ -6994,7 +6994,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 132.04
           },
@@ -7072,7 +7072,7 @@ const games =
           },
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 93.56
           }
@@ -7144,7 +7144,7 @@ const games =
           },
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 119.14
           }
@@ -7246,7 +7246,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 110.7
           },
@@ -7372,7 +7372,7 @@ const games =
         "plMatch": [
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 136
           },
@@ -7450,7 +7450,7 @@ const games =
           },
           {
             "name": "Everyone can suck my dick",
-            "realname": "Daniel",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 115.1
           }
@@ -7515,7 +7515,7 @@ const games =
         "weekId": "Week 1",
         "plMatch": [
           {
-            "name": "One night at Brads",
+            "name": "Drigos 9mm",
             "realname": "Daniel",
             "playerId": "1",
             "score": 102.04
@@ -7539,7 +7539,7 @@ const games =
             "score": 116.58
           },
           {
-            "name": "Guataca Power",
+            "name": "Bye Week Secured",
             "realname": "Jose",
             "playerId": "12",
             "score": 129.96
@@ -7551,8 +7551,8 @@ const games =
         "weekId": "Week 1",
         "plMatch": [
           {
-            "name": "Jose Daniel Tew",
-            "realname": "Daniel",
+            "name": "Drigo with an apron",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 139.16
           },
@@ -7611,7 +7611,7 @@ const games =
             "score": 109.68
           },
           {
-            "name": "One night at Brads",
+            "name": "Drigos 9mm",
             "realname": "Daniel",
             "playerId": "1",
             "score": 115.24
@@ -7641,14 +7641,14 @@ const games =
         "weekId": "Week 2",
         "plMatch": [
           {
-            "name": "Guataca Power",
+            "name": "Bye Week Secured",
             "realname": "Jose",
             "playerId": "12",
             "score": 118.2
           },
           {
-            "name": "Jose Daniel Tew",
-            "realname": "Daniel",
+            "name": "Drigo with an apron",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 99.52
           }
@@ -7695,7 +7695,7 @@ const games =
         "weekId": "Week 3",
         "plMatch": [
           {
-            "name": "One night at Brads",
+            "name": "Drigos 9mm",
             "realname": "Daniel",
             "playerId": "1",
             "score": 109.16
@@ -7713,8 +7713,8 @@ const games =
         "weekId": "Week 3",
         "plMatch": [
           {
-            "name": "Jose Daniel Tew",
-            "realname": "Daniel",
+            "name": "Drigo with an apron",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 101.52
           },
@@ -7755,7 +7755,7 @@ const games =
             "score": 114.72
           },
           {
-            "name": "Guataca Power",
+            "name": "Bye Week Secured",
             "realname": "Jose",
             "playerId": "12",
             "score": 121.52
@@ -7773,7 +7773,7 @@ const games =
             "score": 119.02
           },
           {
-            "name": "Guataca Power",
+            "name": "Bye Week Secured",
             "realname": "Jose",
             "playerId": "12",
             "score": 117.18
@@ -7785,13 +7785,13 @@ const games =
         "weekId": "Week 4",
         "plMatch": [
           {
-            "name": "Jose Daniel Tew",
-            "realname": "Daniel",
+            "name": "Drigo with an apron",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 146.76
           },
           {
-            "name": "One night at Brads",
+            "name": "Drigos 9mm",
             "realname": "Daniel",
             "playerId": "1",
             "score": 138.6
@@ -7875,7 +7875,7 @@ const games =
         "weekId": "Week 5",
         "plMatch": [
           {
-            "name": "One night at Brads",
+            "name": "Drigos 9mm",
             "realname": "Daniel",
             "playerId": "1",
             "score": 138.02
@@ -7899,8 +7899,8 @@ const games =
             "score": 130.96
           },
           {
-            "name": "Jose Daniel Tew",
-            "realname": "Daniel",
+            "name": "Drigo with an apron",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 90.12
           }
@@ -7929,7 +7929,7 @@ const games =
         "weekId": "Week 5",
         "plMatch": [
           {
-            "name": "Guataca Power",
+            "name": "Bye Week Secured",
             "realname": "Jose",
             "playerId": "12",
             "score": 133.86
@@ -7953,8 +7953,8 @@ const games =
             "score": 69
           },
           {
-            "name": "Jose Daniel Tew",
-            "realname": "Daniel",
+            "name": "Drigo with an apron",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 111.1
           }
@@ -7971,7 +7971,7 @@ const games =
             "score": 103.44
           },
           {
-            "name": "One night at Brads",
+            "name": "Drigos 9mm",
             "realname": "Daniel",
             "playerId": "1",
             "score": 120.08
@@ -8007,7 +8007,7 @@ const games =
             "score": 158.66
           },
           {
-            "name": "Guataca Power",
+            "name": "Bye Week Secured",
             "realname": "Jose",
             "playerId": "12",
             "score": 144.16
@@ -8055,7 +8055,7 @@ const games =
         "weekId": "Week 7",
         "plMatch": [
           {
-            "name": "One night at Brads",
+            "name": "Drigos 9mm",
             "realname": "Daniel",
             "playerId": "1",
             "score": 142.34
@@ -8073,7 +8073,7 @@ const games =
         "weekId": "Week 7",
         "plMatch": [
           {
-            "name": "Guataca Power",
+            "name": "Bye Week Secured",
             "realname": "Jose",
             "playerId": "12",
             "score": 143.46
@@ -8097,8 +8097,8 @@ const games =
             "score": 117.02
           },
           {
-            "name": "Jose Daniel Tew",
-            "realname": "Daniel",
+            "name": "Drigo with an apron",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 109.38
           }
@@ -8133,7 +8133,7 @@ const games =
             "score": 108.02
           },
           {
-            "name": "One night at Brads",
+            "name": "Drigos 9mm",
             "realname": "Daniel",
             "playerId": "1",
             "score": 105.26
@@ -8151,7 +8151,7 @@ const games =
             "score": 113.26
           },
           {
-            "name": "Guataca Power",
+            "name": "Bye Week Secured",
             "realname": "Jose",
             "playerId": "12",
             "score": 140.66
@@ -8199,8 +8199,8 @@ const games =
         "weekId": "Week 8",
         "plMatch": [
           {
-            "name": "Jose Daniel Tew",
-            "realname": "Daniel",
+            "name": "Drigo with an apron",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 154.68
           },
@@ -8235,13 +8235,13 @@ const games =
         "weekId": "Week 9",
         "plMatch": [
           {
-            "name": "One night at Brads",
+            "name": "Drigos 9mm",
             "realname": "Daniel",
             "playerId": "1",
             "score": 107.9
           },
           {
-            "name": "Guataca Power",
+            "name": "Bye Week Secured",
             "realname": "Jose",
             "playerId": "12",
             "score": 132.46
@@ -8289,8 +8289,8 @@ const games =
         "weekId": "Week 9",
         "plMatch": [
           {
-            "name": "Jose Daniel Tew",
-            "realname": "Daniel",
+            "name": "Drigo with an apron",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 111.56
           },
@@ -8331,7 +8331,7 @@ const games =
             "score": 130.08
           },
           {
-            "name": "One night at Brads",
+            "name": "Drigos 9mm",
             "realname": "Daniel",
             "playerId": "1",
             "score": 74.3
@@ -8343,7 +8343,7 @@ const games =
         "weekId": "Week 10",
         "plMatch": [
           {
-            "name": "Guataca Power",
+            "name": "Bye Week Secured",
             "realname": "Jose",
             "playerId": "12",
             "score": 169.14
@@ -8367,8 +8367,8 @@ const games =
             "score": 135.52
           },
           {
-            "name": "Jose Daniel Tew",
-            "realname": "Daniel",
+            "name": "Drigo with an apron",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 90.2
           }
@@ -8415,7 +8415,7 @@ const games =
         "weekId": "Week 11",
         "plMatch": [
           {
-            "name": "One night at Brads",
+            "name": "Drigos 9mm",
             "realname": "Daniel",
             "playerId": "1",
             "score": 121.64
@@ -8451,13 +8451,13 @@ const games =
         "weekId": "Week 11",
         "plMatch": [
           {
-            "name": "Jose Daniel Tew",
-            "realname": "Daniel",
+            "name": "Drigo with an apron",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 108.44
           },
           {
-            "name": "Guataca Power",
+            "name": "Bye Week Secured",
             "realname": "Jose",
             "playerId": "12",
             "score": 109.32
@@ -8511,7 +8511,7 @@ const games =
             "score": 192.26
           },
           {
-            "name": "One night at Brads",
+            "name": "Drigos 9mm",
             "realname": "Daniel",
             "playerId": "1",
             "score": 133.08
@@ -8529,8 +8529,8 @@ const games =
             "score": 97.06
           },
           {
-            "name": "Jose Daniel Tew",
-            "realname": "Daniel",
+            "name": "Drigo with an apron",
+            "realname": "Drigo",
             "playerId": "5",
             "score": 122.76
           }
@@ -8559,7 +8559,7 @@ const games =
         "weekId": "Week 12",
         "plMatch": [
           {
-            "name": "Guataca Power",
+            "name": "Bye Week Secured",
             "realname": "Jose",
             "playerId": "12",
             "score": 124.42
@@ -8575,5 +8575,4 @@ const games =
     ]
   ]
 }
-
 export default games;

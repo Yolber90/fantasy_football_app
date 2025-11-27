@@ -3,3 +3,5 @@
 /tests
 /features/pages
 /playwright.config.js
+/playwright-report
+/TODO.md
