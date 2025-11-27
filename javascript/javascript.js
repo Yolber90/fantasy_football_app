@@ -61,7 +61,7 @@ document.getElementById('compare').addEventListener('click', () => {
     }
     function customNote(a, b){
       if(a == 'Jose' || b == 'Jose'){
-        return `● Fun Fact about Christian, he works outside, goes to the beach, and his favorite quote is "if my grandma had wheels then she would be a bike" what a guy...
+        return `● Fun Fact about Christian, he enjoys working outside, going to the beach, and his favorite quote is "if my grandma had wheels then she would be a bike" what a guy...
         Oh, and he will loose to the champ this week...`
       }else{
         return ''
