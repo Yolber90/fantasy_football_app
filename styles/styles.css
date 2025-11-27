@@ -1,0 +1,62 @@
+body {
+    background: #1c162a !important;
+    color: #e6e6e6;
+    min-height: 100vh;
+    padding: 40px 0;
+}
+.navbar{
+    background-color: #1c162a;
+}
+.compare-card {
+    background: #150e24 !important;
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);
+    border: 1px solid lightblue;
+    color: #c9f0e7;
+}
+
+.compare-dropdown {
+    background: #1f2630 !important;
+    color: #00f7c2 !important;
+    border: none;
+    padding: 0.75rem;
+    
+}
+
+.compare-table {
+    margin-top: 2rem;
+    border-collapse: separate;
+    border-spacing: 0 12px;
+    
+}
+
+.compare-table tbody tr {
+    background: #1f2630;
+    border-radius: 10px;
+}
+
+.compare-table td,
+.compare-table th {
+    padding: 1rem;
+    vertical-align: middle;
+    background-color: transparent !important;
+    color: #fff !important;
+    font-size: 18px;
+}
+
+.badge-col {
+    background: #238636;
+    padding: 8px 14px;
+    border-radius: 12px;
+    font-weight: 600;
+    color: white;
+}
+
+.badge-col2 {
+    background: #da3633;
+    padding: 8px 14px;
+    border-radius: 12px;
+    font-weight: 600;
+    color: white;
+}
