@@ -52,9 +52,9 @@ document.getElementById('compare').addEventListener('click', () => {
     function getDiff(a, b){
       let getDiff = (a - b)
       if(getDiff > 5){
-        return `● At this point, <span id='team2'>${thisTool.player2}</span> should start caling <span id='team1'>${thisTool.player1}</span> his daddy`
+        return `● At this point, <span id='team2'>${thisTool.player2}</span> should start calling <span id='team1'>${thisTool.player1}</span> his daddy`
       }if (getDiff < -5) {
-        return `● At this point, <span id='team1'>${thisTool.player1}</span> should start caling <span id='team2'>${thisTool.player2}</span> his daddy`
+        return `● At this point, <span id='team1'>${thisTool.player1}</span> should start calling <span id='team2'>${thisTool.player2}</span> his daddy`
       } else {
         return ''
       }
