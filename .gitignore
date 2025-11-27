@@ -2,3 +2,4 @@
 /node_modules
 /tests
 /features/pages
+/playwright.config.js
