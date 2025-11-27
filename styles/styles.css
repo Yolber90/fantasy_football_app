@@ -2,11 +2,27 @@ body {
     background: #1c162a !important;
     color: #e6e6e6;
     min-height: 100vh;
-    padding: 40px 0;
 }
 .navbar{
-    background-color: #1c162a;
+    font-size: 20px;
+    top: 0px;
+    background-color: #3c3b3f !important;
+    padding-bottom: 30px;
+    margin-bottom: 90px;
 }
+
+a{
+    color: #fff !important;
+}
+
+.nav-item{
+    font-size: 20px;
+}
+
+.form-select {
+    font-size: 20px !important;
+}
+
 .compare-card {
     background: #150e24 !important;
     border-radius: 20px;
@@ -18,7 +34,7 @@ body {
 
 .compare-dropdown {
     background: #1f2630 !important;
-    color: #00f7c2 !important;
+    color: #fff!important;
     border: none;
     padding: 0.75rem;
     

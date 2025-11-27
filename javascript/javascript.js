@@ -30,9 +30,7 @@ for (let p = 0; p < uniquePlayers.length; p++) {
 }
 
   // Set Data
-document.getElementById('chart1-div').style.display = 'none'
-document.getElementById('chart2-div').style.display = 'none'
-document.getElementById('chart3-div').style.display = 'none'
+
 
 
 // FUNCTION =-=-=-=-==-=-=-========================================================================================================
@@ -41,9 +39,7 @@ document.getElementById('chart3-div').style.display = 'none'
 // FUNCTION =-=-=-=-==-=-=-========================================================================================================
 document.getElementById('compare').addEventListener('click', () => {
 
-  document.getElementById('chart1-div').style.display = ''
-document.getElementById('chart2-div').style.display = ''
-document.getElementById('chart3-div').style.display = ''
+
 
   // Set Data
   const thisTool = new Utilities(playerSelect1.value, playerSelect2.value);
