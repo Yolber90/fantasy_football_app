@@ -11,13 +11,12 @@ body {
     margin-bottom: 90px;
 }
 
+
+
 a{
     color: #fff !important;
 }
 
-.nav-item{
-    font-size: 20px;
-}
 
 .form-select {
     font-size: 20px !important;
@@ -75,4 +74,17 @@ a{
     border-radius: 12px;
     font-weight: 600;
     color: white;
+}
+
+#compare{
+    margin-top: 10px !important;
+    max-width: 40% !important;
+    margin: auto;
+}
+
+@media screen and (max-width: 575px) and (min-width: 200px){
+    .compare-card{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
 }
