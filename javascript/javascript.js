@@ -71,7 +71,7 @@ document.getElementById('compare').addEventListener('click', () => {
       `
       <ul>
         <li>● <span id='team1'>${thisTool.player1}</span> and <span id='team2'>${thisTool.player2}</span> have played eachother ${thisTool.player1ScoreArray.length} times</li>
-        <li>● <span id='team2'>${thisTool.player1}</span> has a record of ${thisTool.player1Wins()} - ${thisTool.player2Wins()} against <span id='team2'>${thisTool.player2}</span></li>
+        <li>● <span id='team1'>${thisTool.player1}</span> has a record of ${thisTool.player1Wins()} - ${thisTool.player2Wins()} against <span id='team2'>${thisTool.player2}</span></li>
         <li>${getDiff(thisTool.player1Wins(), thisTool.player2Wins())}</li>
         <li>${customNote(thisTool.player1, thisTool.player2)}</li>
         
