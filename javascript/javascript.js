@@ -29,7 +29,8 @@ for (let p = 0; p < uniquePlayers.length; p++) {
     `
 }
 
-  // Set Data
+
+
 
 
 
@@ -46,13 +47,44 @@ document.getElementById('compare').addEventListener('click', () => {
   thisTool.setPlayersData(gamesPre)
   thisTool.player2pointsArray()
   thisTool.player2pointsArray()
-     
+  function notations() {
+    let notesDiv = document.getElementById('notes')
+    function getDiff(a, b){
+      let getDiff = (a - b)
+      if(getDiff > 5){
+        return `● At this point, <span id='team2'>${thisTool.player2}</span> should start caling <span id='team1'>${thisTool.player1}</span> his daddy`
+      }if (getDiff < -5) {
+        return `● At this point, <span id='team1'>${thisTool.player1}</span> should start caling <span id='team2'>${thisTool.player2}</span> his daddy`
+      } else {
+        return ''
+      }
+    }
+    function customNote(a, b){
+      if(a == 'Jose' || b == 'Jose'){
+        return `● Fun Fact about Christian, he works outside, goes to the beach, and his favorite quote is "if my grandma had wheels then she would be a bike" what a guy...
+        Oh, and he will loose to the champ this week...`
+      }else{
+        return ''
+      }
+    }
+    notesDiv.innerHTML =
+      `
+      <ul>
+        <li>● <span id='team1'>${thisTool.player1}</span> and <span id='team2'>${thisTool.player2}</span> have played eachother ${thisTool.player1ScoreArray.length} times</li>
+        <li>● <span id='team2'>${thisTool.player1}</span> has a record of ${thisTool.player1Wins()} - ${thisTool.player2Wins()} against <span id='team2'>${thisTool.player2}</span></li>
+        <li>${getDiff(thisTool.player1Wins(), thisTool.player2Wins())}</li>
+        <li>${customNote(thisTool.player1, thisTool.player2)}</li>
+        
+      </ul>
+      `
+  }
 
-  
+
+
 
   replaceDataset1();
 
-
+  notations();
 
   // Function that replaces the entire dataset
   function replaceDataset1() {
@@ -60,7 +92,7 @@ document.getElementById('compare').addEventListener('click', () => {
     // generate new labels
     const newLabels = thisTool.getWeeksYears()
     const newLabels2 = [thisTool.player1, thisTool.player2]
-  
+
 
     // generate new random values
     const newData = (thisTool.player1pointsArray())
@@ -78,8 +110,8 @@ document.getElementById('compare').addEventListener('click', () => {
     myChart.data.datasets[1].label = thisTool.player2;
     myChart.data.datasets[0].data = newData;
     myChart.data.datasets[1].data = newData2;
-   
-    
+
+
     // replace everything
     myChart2.data.labels = [thisTool.player1, thisTool.player2];
     myChart2.data.datasets.label = thisTool.player1;
@@ -87,7 +119,7 @@ document.getElementById('compare').addEventListener('click', () => {
     myChart2.data.datasets[0].data = [newData3, newData4]
     // myChart2.data.datasets[1].data = [newData4]
 
-        // replace everything
+    // replace everything
     myChart3.data.labels = [thisTool.player1, thisTool.player2];
     myChart3.data.datasets.label = [thisTool.player1, thisTool.player2];
     // myChart2.data.datasets[1].label = thisTool.player2;
